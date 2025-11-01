@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Realizamos esta modificacion
+Realizamos esta modificacion, en una nueva rama
 
 <!--
 **cristianbitlm/cristianbitlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
